@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: gulja
+Build-Jdk: 14.0.2
+Class-Path: commons-codec-1.11.jar json2flat-1.0.3.jar gson-2.8.0.jar js
+ on-path-2.2.0.jar json-smart-2.2.1.jar accessors-smart-1.1.jar asm-5.0.
+ 3.jar json-simple-1.1.1.jar junit-4.10.jar hamcrest-core-1.1.jar mail-1
+ .5.0-b01.jar activation-1.1.jar slf4j-api-1.7.5.jar slf4j-simple-1.7.12
+ .jar commons-io-2.8.0.jar jackson-dataformat-csv-2.12.1.jar jackson-ann
+ otations-2.12.1.jar jackson-core-2.12.1.jar jackson-databind-2.12.1.jar
+  httpclient-4.5.jar httpcore-4.4.1.jar commons-logging-1.2.jar
+Main-Class: com.project.tasks.MainApp
+Created-By: Maven Integration for Eclipse
+
